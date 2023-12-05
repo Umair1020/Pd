@@ -1,0 +1,103 @@
+main {
+    min-height: 100vh;
+}
+
+.eAOrTQ {
+    display: block;
+    width: 100%;
+    position: relative;
+}
+
+.bivDfV {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+    max-width: 100%;
+    margin: 0px auto;
+    padding: 10px;
+}
+
+.liChhb {
+    padding: 10px;
+    font-weight: 700;
+    font-size: 20px;
+    font-family: var(--serif);
+}
+
+.cxlzfd * {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.fSIuCc {
+    fill: none;
+    height: 18px;
+    width: auto;
+}
+
+.ipmzxp {
+    -webkit-box-pack: end;
+    justify-content: flex-end;
+}
+
+.ipmzxp {
+    -webkit-box-pack: end;
+    justify-content: flex-end;
+}
+
+.ipmzxp a {
+    padding: 10px;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.kemdDN {
+    display: block;
+    appearance: none;
+    border: none;
+    background: none;
+    margin: 0px;
+    padding: 10px;
+    pointer-events: all;
+}
+
+.kemdDN svg {
+    display: block;
+    pointer-events: none;
+    width: 20px;
+    height: auto;
+}
+
+.fxBdmI path {
+    fill: rgb(0, 0, 0);
+}
+
+.jWXPsu {
+    position: absolute;
+    top: 59px;
+    width: 100%;
+    height: auto;
+    background: rgb(255, 255, 255);
+    border-top: 1px solid rgb(229, 227, 218);
+    transition: all 0.1s ease 0s;
+    opacity: 0;
+    pointer-events: none;
+}
+.transition-all {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(.4,0,.2,1);
+    transition-duration: .15s;
+}
+@media (max-width: 768px) {
+
+    .hide-mobile,
+    .marquee-container .overlay {
+        display: none !important;
+    }
+}
+.pdf{
+    margin-top: 350px;
+}
